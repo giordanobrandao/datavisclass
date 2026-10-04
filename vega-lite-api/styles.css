@@ -5,6 +5,10 @@
   padding: 0;
 }
 
+title {
+  display: none;
+}
+
 body {
   background-color: antiquewhite;
 }
